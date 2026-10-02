@@ -1,4 +1,4 @@
-# 📊 Unemployment Analysis with Python
+# Unemployment Analysis with Python
 
 > **CodeAlpha Internship — Data Science / Data Analytics Project**
 
@@ -6,7 +6,7 @@ An exploratory data analysis project that examines unemployment trends in India,
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Unemployment is an important indicator of economic and social conditions. Understanding how unemployment changes over time and across different regions can provide useful information for analyzing labour-market conditions.
 
@@ -16,30 +16,30 @@ The project also translates the analytical findings into **economic and social p
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
-- 🧹 Clean and prepare the unemployment dataset
-- 🔍 Perform exploratory data analysis
-- 📈 Analyze unemployment trends over time
-- 🦠 Investigate changes during the COVID-19 period
-- 🏙️ Compare Rural and Urban unemployment
-- 🗺️ Analyze regional unemployment variation
-- 📅 Examine monthly unemployment patterns
-- 📊 Create meaningful data visualizations
-- 💡 Identify insights relevant to economic and social policy planning
+-  Clean and prepare the unemployment dataset
+-  Perform exploratory data analysis
+-  Analyze unemployment trends over time
+-  Investigate changes during the COVID-19 period
+-  Compare Rural and Urban unemployment
+-  Analyze regional unemployment variation
+-  Examine monthly unemployment patterns
+-  Create meaningful data visualizations
+-  Identify insights relevant to economic and social policy planning
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 The project uses the **Unemployment in India** dataset.
 
 **| Feature | Details |**
-| 📅 Time Period | May 2019 – June 2020 |
-| 🗺️ Regions | 28 |
-| 🏙️ Areas | Rural & Urban |
-| 📊 Frequency | Monthly |
-| 📌 Observations after cleaning | 740 |
+|  Time Period | May 2019 – June 2020 |
+|  Regions | 28 |
+|  Areas | Rural & Urban |
+|  Frequency | Monthly |
+|  Observations after cleaning | 740 |
 
 ### Main Variables
 
@@ -54,7 +54,7 @@ The project uses the **Unemployment in India** dataset.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 **Language**
 
@@ -62,10 +62,10 @@ The project uses the **Unemployment in India** dataset.
 
 **Libraries**
 
-- 🐼 Pandas — data manipulation and analysis
-- 🔢 NumPy — numerical operations
-- 📈 Matplotlib — data visualization
-- 📊 Seaborn — statistical visualization
+-  Pandas — data manipulation and analysis
+-  NumPy — numerical operations
+-  Matplotlib — data visualization
+-  Seaborn — statistical visualization
 
 **Development Environment**
 
@@ -78,7 +78,7 @@ The project uses the **Unemployment in India** dataset.
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 The dataset was prepared before analysis using the following steps:
 
@@ -97,7 +97,7 @@ After cleaning:
 
 ---
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 The analysis examined:
 
@@ -123,7 +123,7 @@ The analysis examined:
 
 ---
 
-## 📈 Unemployment Trend
+##  Unemployment Trend
 
 Monthly average unemployment rates were calculated and visualized to understand how unemployment changed throughout the available period.
 
@@ -135,7 +135,7 @@ The analysis shows relatively lower unemployment levels during much of 2019 and 
 
 ---
 
-## 🦠 COVID-19 Impact Analysis
+##  COVID-19 Impact Analysis
 
 To examine the change during the COVID-impact period, the data was divided into two periods:
 
@@ -151,7 +151,7 @@ The analysis identifies a strong temporal association between the COVID-impact p
 
 ---
 
-## 🏙️ Rural vs Urban
+##  Rural vs Urban
 
 Average unemployment rates were compared between Rural and Urban areas.
 
@@ -163,7 +163,7 @@ The results show differences in unemployment conditions between Rural and Urban 
 
 ---
 
-## 🗺️ Regional Analysis
+##  Regional Analysis
 
 Average unemployment rates were calculated for each region.
 
@@ -173,7 +173,7 @@ A horizontal bar chart is used to make regional differences easier to compare.
 
 ---
 
-## 📅 Monthly Pattern
+##  Monthly Pattern
 
 The project also examines unemployment by calendar month.
 
@@ -183,23 +183,23 @@ A longer multi-year dataset would be required for a proper seasonal analysis.
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 The project includes the following visualizations:
 
 | Visualization | Purpose |
 |---|---|
-| 📈 Overall Unemployment Trend | Shows unemployment over time |
-| 🦠 COVID-19 Impact | Highlights the COVID-impact period |
-| 📊 Month-to-Month Change | Shows monthly increases and decreases |
-| 🏙️ Rural vs Urban | Compares area-level unemployment |
-| 🗺️ Regional Analysis | Shows regional variation |
-| 📅 Monthly Pattern | Examines monthly variation |
-| 📊 Distribution | Shows the distribution of unemployment rates |
+|  Overall Unemployment Trend | Shows unemployment over time |
+|  COVID-19 Impact | Highlights the COVID-impact period |
+|  Month-to-Month Change | Shows monthly increases and decreases |
+|  Rural vs Urban | Compares area-level unemployment |
+|  Regional Analysis | Shows regional variation |
+|  Monthly Pattern | Examines monthly variation |
+|  Distribution | Shows the distribution of unemployment rates |
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 - The overall average unemployment rate was approximately **11.79%**.
 - The pre-COVID average was approximately **9.51%**.
@@ -212,7 +212,7 @@ The project includes the following visualizations:
 
 ---
 
-## 🏛️ Economic & Social Policy Insights
+##  Economic & Social Policy Insights
 
 The findings provide several areas that can be considered when planning employment and social policies:
 
@@ -233,7 +233,7 @@ Multi-year unemployment data would allow more reliable analysis of seasonal patt
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - The dataset covers only **May 2019 to June 2020**.
 - There is insufficient repeated yearly data to establish recurring seasonal patterns.
